@@ -1,0 +1,4 @@
+1635263824.069123	apple	3	5	15
+1635263824.0693572	banana	5	2	10
+1635263824.069466	cucumber	6	1	6
+1635263824.06957	Wanted to buy elephant, but we do not carry it!

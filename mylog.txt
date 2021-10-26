@@ -1,2 +1,9 @@
 hello!
 goodbye!
+1635261612.070967	reuven logged in
+1635261612.072692	reuven logged in
+1635261612.072906	asfasf FAILED TO log in
+1635261612.073042	otheruser FAILED TO log in
+1635261612.0731971	otheruser logged in
+1635261612.073378	reuven logged out
+1635261612.073554	reuven FAILED TO log out

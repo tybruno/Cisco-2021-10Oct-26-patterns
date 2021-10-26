@@ -1,9 +1,7 @@
-hello!
-goodbye!
-1635261612.070967	reuven logged in
-1635261612.072692	reuven logged in
-1635261612.072906	asfasf FAILED TO log in
-1635261612.073042	otheruser FAILED TO log in
-1635261612.0731971	otheruser logged in
-1635261612.073378	reuven logged out
-1635261612.073554	reuven FAILED TO log out
+1635261627.5549152	reuven logged in
+1635261627.555378	reuven logged in
+1635261627.555487	asfasf FAILED TO log in
+1635261627.5555809	otheruser FAILED TO log in
+1635261627.555777	otheruser logged in
+1635261627.555962	reuven logged out
+1635261627.5561442	reuven FAILED TO log out
